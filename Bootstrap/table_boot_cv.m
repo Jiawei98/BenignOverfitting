@@ -1,4 +1,4 @@
-%% table_boot3_cv.m
+%% table_boot_cv.m
 %
 % Bootstrap summary statistics for the RFF-CV model, read DIRECTLY from the
 % consolidated results written by test_boot3_cv.m (no raw Sim reloading).
