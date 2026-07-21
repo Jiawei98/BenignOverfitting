@@ -1,4 +1,4 @@
-%% run_rff_cv_boot3_par.m
+%% run_rff_cv_boot_par.m
 load('GYdata.mat');
 gamma      = 2;
 vol_stdize = 1;
