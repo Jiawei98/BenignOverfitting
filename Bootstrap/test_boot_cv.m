@@ -1,4 +1,4 @@
-%% test_boot3_cv.m
+%% test_boot_cv.m
 %
 % Builds ONE consolidated table for the RFF cross-validation BOOTSTRAP model.
 % Direct analogue of table_rff_cv.m, with an outer loop over bootstrap draws.
