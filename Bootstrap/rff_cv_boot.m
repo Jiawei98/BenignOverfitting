@@ -1,4 +1,4 @@
-function [] = rff_cv_boot3(X, Y, dates, zlist, gamma, vol_stdize, trnwin, nval, demeanX, demeanY, isim, output_dir, iboot)
+function [] = rff_cv_boot(X, Y, dates, zlist, gamma, vol_stdize, trnwin, nval, demeanX, demeanY, isim, output_dir, iboot)
 % nval : number of validation steps (e.g. 5 means predict t-5, t-4, t-3, t-2, t-1)
 % --- Grid for P ---
 maxP  = 12000;
