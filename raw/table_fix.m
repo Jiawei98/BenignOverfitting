@@ -1,4 +1,4 @@
-% generate_tables.m
+% table_fix.m
 %
 % Three demean settings:
 %   Setting 1: demeanX=1, demeanY=1
