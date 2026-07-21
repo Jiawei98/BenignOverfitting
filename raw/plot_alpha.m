@@ -1,4 +1,4 @@
-%% alpha2_tstat_bar.m
+%% plot_alpha.m
 % Bar chart of alpha_2 t-statistics for RFF model.
 % One figure per window size: T=12, T=60, T=120.
 % 3 bars per z value, one per sub-period.
