@@ -1,5 +1,5 @@
 % Usage:
-%   matlab -batch "run_rff_raw"
+%   matlab -batch "run_rff"
 % ── Load data (once per session) ──────────────────────────────────────────
 load('GYdata.mat');
 % ── Fixed parameters ──────────────────────────────────────────────────────
