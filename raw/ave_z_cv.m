@@ -1,4 +1,4 @@
-%% z_frequency_table.m
+%% ave_z_cv.m
 %
 % For demeanX=1, demeanY=1:
 %   1. Load zSel from every sim file → (T x num_sims)
